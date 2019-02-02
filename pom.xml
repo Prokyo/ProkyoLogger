@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>de.prokyo.logger</groupId>
+	<artifactId>prokyo-logger</artifactId>
+	<version>0.1</version>
+	<description>ProkyLogger is a logger implementation based on the sfl4j api.</description>
+	<url>https://github.com/Prokyo/ProkyoLogger</url>
+
+	<developers>
+		<developer>
+			<name>Microsamp</name>
+			<email>Microsamp2019@gmail.com</email>
+		</developer>
+		<developer>
+			<name>Masy</name>
+			<email>dev@masy.pw</email>
+		</developer>
+	</developers>
+
+	<licenses>
+		<license>
+			<name>MIT License</name>
+			<url>http://www.opensource.org/licenses/mit-license.php</url>
+		</license>
+	</licenses>
+
+	<scm>
+		<connection>scm:git:git://github.com/Prokyo/ProkyoLogger</connection>
+		<developerConnection>scm:git:ssh://github.com:Prokyo/ProkyoLogger</developerConnection>
+		<url>https://github.com/Prokyo/ProkyoLogger/tree/master</url>
+	</scm>
+
+</project>
